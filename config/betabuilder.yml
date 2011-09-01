@@ -1,0 +1,18 @@
+default:
+  target: cap
+  app_name: OTG Alerting
+  configuration: Release
+  api_token: 6989867c7de7e81c984e06494dee5153_MjE4NTU
+  notify: true
+
+development:
+  team_token: 559751814532cf61a19205b782c4d72d_NTMxOTIwMTEtMDgtMDkgMTA6Mjk6MTkuMzYxNjg1
+  distribution_list: Just DeWeese
+
+beta:
+  team_token: 559751814532cf61a19205b782c4d72d_NTMxOTIwMTEtMDgtMDkgMTA6Mjk6MTkuMzYxNjg1
+  distribution_list: Just DeWeese
+
+production:
+  team_token: 559751814532cf61a19205b782c4d72d_NTMxOTIwMTEtMDgtMDkgMTA6Mjk6MTkuMzYxNjg1
+  distribution_list: Just DeWeese
